@@ -1,0 +1,4 @@
+baseURL = 'https://carlosrabelo.github.io/'
+languageCode = 'en-us'
+title = 'Carlos Rabelo'
+theme = 'default'
